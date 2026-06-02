@@ -1,17 +1,32 @@
-# mente_sana
+# 🧠 Mente Sana
 
-A new Flutter project.
+Aplicación móvil de apoyo emocional con inteligencia artificial.
 
-## Getting Started
+## Descripción
+Mente Sana es una app móvil desarrollada en Flutter que proporciona 
+apoyo emocional mediante IA, detecta lenguaje de riesgo y ofrece 
+recursos de ayuda psicológica accesibles para jóvenes y adultos.
 
-This project is a starting point for a Flutter application.
+## Tecnologías
+- Flutter / Dart
+- SQLite (sqflite)
+- OpenAI API
+- Firebase Auth
+- Firebase Analytics
 
-A few resources to get you started if this is your first Flutter project:
+## Estructura del proyecto
+docs/        → Documento de arquitectura y diagrama ER
+design/      → Wireframes y capturas del prototipo
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Prototipo navegable
+https://design.penpot.app/#/view?file-id=26836c25-3ad9-81c8-8007-e3131edcd98d&page-id=26836c25-3ad9-81c8-8007-e3131edcd98e&section=interactions&index=0&share-id=29a60c49-971d-80dc-8007-e904250743e0
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Entregables
+- [Documento de arquitectura](docs/Mente_Sana_Arquitectura.pdf)
+- [Diagrama ER](docs/diagrama_er.png)
+- [Wireframes](design/)
+
+## Autor
+Proyecto académico — Desarrollo de Aplicaciones Móviles  
+Fecha: 2026
+
